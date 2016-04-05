@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imaging Talk</title>
-    <link>http://imagingtalk.github.io/</link>
+    <link>http://ptthisdan.github.io/imagingtalk/</link>
     <description>Recent content on Imaging Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Apr 2016 11:31:59 +0800</lastBuildDate>
-    <atom:link href="http://imagingtalk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ptthisdan.github.io/imagingtalk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HDR Sensor 原理介绍</title>
-      <link>http://imagingtalk.github.io/post/hdr_sensor_intro/</link>
+      <link>http://ptthisdan.github.io/imagingtalk/post/hdr_sensor_intro/</link>
       <pubDate>Tue, 05 Apr 2016 11:31:59 +0800</pubDate>
       
-      <guid>http://imagingtalk.github.io/post/hdr_sensor_intro/</guid>
+      <guid>http://ptthisdan.github.io/imagingtalk/post/hdr_sensor_intro/</guid>
       <description>
 
 &lt;p&gt;在介绍HDR Sensor原理之前首先讨论为什么需要HDR Sensor.&lt;/p&gt;
@@ -122,10 +122,10 @@ i_min是sensor的底电流（blacklevel） ；&lt;/p&gt;
     
     <item>
       <title>关于本站</title>
-      <link>http://imagingtalk.github.io/about/</link>
+      <link>http://ptthisdan.github.io/imagingtalk/about/</link>
       <pubDate>Tue, 05 Apr 2016 11:02:57 +0800</pubDate>
       
-      <guid>http://imagingtalk.github.io/about/</guid>
+      <guid>http://ptthisdan.github.io/imagingtalk/about/</guid>
       <description>&lt;p&gt;分享有关成像的软硬件及算法知识，交流相关开发经验
 &lt;img src=&#34;https://raw.githubusercontent.com/ptthisdan/imgur/master/about.png&#34; alt=&#34;About This Site&#34; /&gt;&lt;/p&gt;
 </description>
